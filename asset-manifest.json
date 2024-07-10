@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/music/static/css/main.6d9cba5d.css",
+    "main.js": "/music/static/js/main.efee7a99.js",
+    "static/js/453.672a2980.chunk.js": "/music/static/js/453.672a2980.chunk.js",
+    "static/media/Canon.mp3": "/music/static/media/Canon.2b5dc139f62d46c1ad3f.mp3",
+    "static/media/Yiruma.mp3": "/music/static/media/Yiruma.d8fbe2023c43a22950ab.mp3",
+    "static/media/Beethoven.mp3": "/music/static/media/Beethoven.eb182ba965beeaa864af.mp3",
+    "static/media/Strauss.mp3": "/music/static/media/Strauss.7597383c62eeb3a1e3bc.mp3",
+    "static/media/Bach.mp3": "/music/static/media/Bach.4328c261a60b135428cd.mp3",
+    "static/media/logo.svg": "/music/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/music/index.html",
+    "main.6d9cba5d.css.map": "/music/static/css/main.6d9cba5d.css.map",
+    "main.efee7a99.js.map": "/music/static/js/main.efee7a99.js.map",
+    "453.672a2980.chunk.js.map": "/music/static/js/453.672a2980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d9cba5d.css",
+    "static/js/main.efee7a99.js"
+  ]
+}
